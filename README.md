@@ -3,6 +3,7 @@ Refuel скрипт Спекуляции
 
 # Скрипт раскидывает деньги на газ ИЗ сетей:
 BSC, AVALANCHE, FANTOM, POLYGON, OPTIMISM, ARBITRUM, ETHEREUM.
+Из сетей AURORA, GNOSIS, ZKSYNC, POLYGON_ZKEVM рефулить **НЕЛЬЗЯ!**
 
 # Скрипт раскидывает деньги на газ В сети:
 BSC, AVALANCHE, FANTOM, POLYGON, OPTIMISM, ARBITRUM, ETHEREUM, AURORA, GNOSIS, ZKSYNC, POLYGON_ZKEVM.
