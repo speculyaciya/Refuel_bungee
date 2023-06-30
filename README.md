@@ -8,6 +8,9 @@
 BSC, AVALANCHE, FANTOM, POLYGON, OPTIMISM, ARBITRUM, ETHEREUM.
 -----------------------------------------------------------------
 Из сетей AURORA, GNOSIS, ZKSYNC, POLYGON_ZKEVM рефулить **НЕЛЬЗЯ!**
+------------------------------------------------  
+Если скрипт вам пригодился, будем рады вашему донату в любой EVM-сети: 0x9d9D67FAF623a2D78A1eaa07579b7128fCD79dd9
+------------------------------------------------  
 
 # Скрипт раскидывает деньги на газ В сети:
 BSC, AVALANCHE, FANTOM, POLYGON, OPTIMISM, ARBITRUM, ETHEREUM, AURORA, GNOSIS, ZKSYNC, POLYGON_ZKEVM.
