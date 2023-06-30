@@ -1,5 +1,8 @@
-# Refuel-script
-Refuel скрипт Спекуляции
+# Refuel script
+Скрипт написан закрытым сообществом **"Спекуляция"**, подписывайтесь - https://t.me/spekulyantcrypto  
+Кодеры, которые писали скрипт:
+1) **Крипто-Шелки** - https://t.me/tawer_crypt
+2) **Кузница Гефеста** - https://t.me/gefest_forge
 
 # Скрипт раскидывает деньги на газ ИЗ сетей:
 BSC, AVALANCHE, FANTOM, POLYGON, OPTIMISM, ARBITRUM, ETHEREUM.
